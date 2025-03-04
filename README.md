@@ -17,10 +17,12 @@
 </ul>
 
 <h2>How to Play?</h2>
-1] Open the game in a browser.
-2] Players take turns clicking on empty boxes.
-3] First player to align three marks(vertically,horizontally or diagonally)wins!
-4] Click to new game to play again.
+<ol>
+  <li>Open the game in a browser.</li>
+  <li>Players take turns clicking on empty boxes.</li>
+  <li>First player to align three marks(vertically,horizontally or diagonally)wins!</li>
+  <li>Click to new game to play again.</li>
+</ol>
 
 <h2>Future Improvements</h2>
 <ul>
