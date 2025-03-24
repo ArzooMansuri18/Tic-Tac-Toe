@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-<p>A simple <strong>Tic-Tac-Toe</strong> game built using <strong>HTML, CSS, and JavaScript.</strong>This project is inpired by Apna College's YouTube tutorial and allows two players to play against each other in a classic 3x3 grid.</p>
+<p>A simple <strong>Tic-Tac-Toe</strong> game built using <strong>HTML, CSS, and JavaScript.</strong>This project is inpired by Apna College's YouTube tutorial in addition I have Implement the <strong>Draw Function</>strong> and allows two players to play against each other in a classic 3x3 grid.</p>
 
 <h2>Features</h2>
 <ul>
@@ -26,7 +26,6 @@
 
 <h2>Future Improvements</h2>
 <ul>
-  <li>Implement a draw function to handle tie situation</li>
   <li>Add a Player Vs AI mode</li>
   <li>Improve UI with animations and sound effects</li>
 </ul>
