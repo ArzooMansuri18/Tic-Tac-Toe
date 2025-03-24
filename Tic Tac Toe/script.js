@@ -73,5 +73,14 @@ const checkWinner = () => {
       }
 }};
 
+const checkDraw = () => {
+   let isDraw = [...boxes].every(box => box.innerText !== '');
+   if (isDraw) {
+      msg.innerText = 'Its a Draw!';
+      msgContainer.classList.remove('hide');
+      disableBoxes();
+   }
+}
+
    newGameBtn.addEventListener('click', resetGame);
    resetBtn.addEventListener('click', resetGame);
